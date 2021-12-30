@@ -1,0 +1,16 @@
+"Run PDDS it stands for ('project duplication detection system')"
+Computer Vision Projects (Combo Course)
+Computer Vision - Text Scanner
+Computer Vision (Career Building Course}
+Computer Vision Based Mouse
+Fraud Detection using Machine Learning	
+Handwritten Digits Recognition using ML	
+IoT using Raspberry Pi
+Machine Learning (Career Building Course)
+Machine Learning using Python
+Movie Recommendation using ML
+Raspberry Pi Robot
+Sixth Sense Robot
+Surveilance Robot
+Surveillance Camera using IoT
+Surveillance Robot
